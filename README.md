@@ -2,7 +2,7 @@
     <h1>Minji Kang</h1>
 </div>
 
-<h3 align="center">👑 Tech Stack</h3>
+<h3 align="center">🤖 Tech Stack</h3>
 <div align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />
@@ -27,7 +27,7 @@
       <a href="mailto:rkdalswl403@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=rkdalswl403@gmail.com"/></a>
       <a href="mailto:rkdalswl403@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=rkdalswl403@naver.com"/></a>
 </div>
-<h3 align="center">🎯 About Me</h3>
+<h3 align="center">👑 About Me</h3>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mingd00&exclude_repo=like-dislike-classify,neuro_like_dislike_classify,university_predict,MNU_Plus&layout=compact"/>
       <a href="https://solved.ac/rkdalswl403/">
