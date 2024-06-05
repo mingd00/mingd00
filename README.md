@@ -2,7 +2,7 @@
     <h1>Minji Kang</h1>
 </div>
 
-<h3 align="center">🔭 Things I code with</h3>
+<h3 align="center"> Tech Stack</h3>
 <div align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />
@@ -15,7 +15,15 @@
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </div>
+<h3 align="center">🛠️ Tools</h3>
+<div align="center">
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/>
+</div>
 <h3 align="center">👀 About Me</h3>
+   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdalswl403)](https://solved.ac/rkdalswl403/)/>
 
 
 
