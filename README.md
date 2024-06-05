@@ -27,4 +27,7 @@
       <a href="mailto:rkdalswl403@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=rkdalswl403@gmail.com"/></a>
       <a href="mailto:rkdalswl403@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=rkdalswl403@naver.com"/></a>
 </div>
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mingd00&exclude_repo=like-dislike-classify,neuro_like_dislike_classify,PictureClassify,MNU_Plus,pytorch_ex,university_predict"/>
+<img src="http://mazassumnida.wtf/api/v1/generate_badge?boj={rkdalswl403}"/>
    
