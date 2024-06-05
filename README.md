@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
     <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/>
 </div>
-<h3 align="center">👀 Contact Me</h3>
+<h3 align="center">👀 Contact</h3>
 <div align="center">
       <a href="mailto:rkdalswl403@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=rkdalswl403@gmail.com"/></a>
       <a href="mailto:rkdalswl403@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=rkdalswl403@naver.com"/></a>
