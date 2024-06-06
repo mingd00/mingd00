@@ -29,7 +29,7 @@
 </div>
 <h3 align="center">👑 Status</h3>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mingd00&exclude_repo=like-dislike-classify,neuro_like_dislike_classify,university_predict,MNU_Plus&layout=compact"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mingd00&exclude_repo=like-dislike-classify,neuro_like_dislike_classify,university_predict,MNU_Plus&&hide_progress=true"/>
       <a href="https://solved.ac/rkdalswl403/">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdalswl403" alt="Solved.ac Profile">
       </a>
