@@ -27,13 +27,7 @@
       <a href="mailto:rkdalswl403@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=rkdalswl403@gmail.com"/></a>
       <a href="mailto:rkdalswl403@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=rkdalswl403@naver.com"/></a>
 </div>
-<h3 align="center">👑 Status</h3>
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mingd00&layout=compact"/>
-      <a href="https://solved.ac/rkdalswl403/">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdalswl403" alt="Solved.ac Profile">
-      </a>
-</div>
+
 
 
    
