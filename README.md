@@ -21,7 +21,7 @@
 
   <h3>🔍 Status</h3>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mingd00&layout=compact" alt="Top Langs"/> <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mingd00&layout=compact" alt="Top Langs"/> </tap>
     <img src="https://github-readme-stats.vercel.app/api?username=mingd00&show_icons=true" alt="Minji's GitHub stats"/>
   </p>
 
