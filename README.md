@@ -10,6 +10,7 @@
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
   </p>
+  
 
   <h3>🛠️ Tools</h3>
   <p>
@@ -19,15 +20,18 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
   </p>
+  
 
   <h3>🔍 Status</h3>
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mingd00&layout=compact" alt="Top Langs"/> </tap>
     <img src="https://github-readme-stats.vercel.app/api?username=mingd00&show_icons=true" alt="Minji's GitHub stats"/>
   </p>
+  
 
-  <h3>👀 Contact</h3>
+  <h3>👀 About Me</h3>
   <p>
+    <a href="mailto:https://www.kaggle.com/minji12300"><img src="https://img.shields.io/badge/kaggle-20BEFF?style=flat-square&logo=Gmail&logoColor=white" alt="Kaggle"/></a>
     <a href="mailto:rkdalswl403@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"/></a>
     <a href="mailto:rkdalswl403@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white" alt="Naver"/></a>
   </p>
