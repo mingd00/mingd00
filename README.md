@@ -26,10 +26,12 @@
   </p>
   
 
-  <h3>👀 About Me</h3>
+  <h3>👀 Contact</h3>
   <p>
     <a href="https://www.kaggle.com/minji12300"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://irreplaceablehotgirl.tistory.com"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logoColor=white" alt="Tistory"/></a>
     <a href="mailto:rkdalswl403@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logoColor=white" alt="Gmail"/></a>
   </p>
+
+  <h3>👩‍💻 Blog</h3>
+    <a href="https://irreplaceablehotgirl.tistory.com"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logoColor=white" alt="Tistory"/></a>
 </div>
