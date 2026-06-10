@@ -28,7 +28,7 @@
 
   <h3>👀 Contact</h3>
   <p>
-    <a href="https://www.kaggle.com/minji12300"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://www.linkedin.com/in/minji-kang-824522318"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="mailto:rkdalswl403@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logoColor=white" alt="Gmail"/></a>
   </p>
 
