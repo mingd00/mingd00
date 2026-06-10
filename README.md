@@ -34,4 +34,5 @@
 
   <h3>👩‍💻 Blog</h3>
     <a href="https://irreplaceablehotgirl.tistory.com"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logoColor=white" alt="Tistory"/></a>
+    <a href="https://mingd00.github.io/"><img src="https://img.shields.io/badge/github.io-000000?style=flat-square&logoColor=white" alt="Github"/></a>
 </div>
