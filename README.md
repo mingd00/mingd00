@@ -35,4 +35,7 @@
   <h3>👩‍💻 Blog</h3>
     <a href="https://irreplaceablehotgirl.tistory.com"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logoColor=white" alt="Tistory"/></a>
     <a href="https://mingd00.github.io/"><img src="https://img.shields.io/badge/github.io-000000?style=flat-square&logoColor=white" alt="Github"/></a>
+
+  <h3>📒 Portfolio</h3>
+    <a href="https://mulberry-mammal-87a.notion.site/394b01d4392880c18c69f5a275acdb4e"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logoColor=white" alt="Notion"/></a>
 </div>
